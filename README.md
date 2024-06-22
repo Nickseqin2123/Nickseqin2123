@@ -9,13 +9,13 @@
 - ⚡ Fun fact: no fun facts
 
 MY STACK:
-- Python,
-- JS,
-- MySQL,
-- GIT,
-- Docker,
-- Django,
-- Django REST,
-- Redis,
-- HTML/CSS,
-- SQL.
+- Python
+- JS
+- MySQL
+- GIT
+- Docker
+- Django
+- Django REST
+- Redis
+- HTML/CSS
+- SQL
