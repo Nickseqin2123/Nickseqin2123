@@ -10,7 +10,7 @@
 
 MY STACK:
 - Python
-- JS
+- JS/React
 - MySQL
 - GIT
 - Docker
