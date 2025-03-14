@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on pet projects
 - 📫 How to reach me:
 -  my email - bletigri@gmail.com
--  my telegram - @Yorichi993
+-  my telegram - @mytypy
 - 😄 Pronouns: Pronouns, what is it?
 - ⚡ Fun fact: no fun facts
 
